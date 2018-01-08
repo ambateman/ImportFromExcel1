@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">HEPTITE-MOON</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZvDsKfSgVE6ZSOV8QIZZbAAAAAACAAAAAAAQZgAAAAEAACAAAAC4+L916rToSOypHR/YrMtIC/AxREfTyoRjJinVrrmI5AAAAAAOgAAAAAIAACAAAAAEQjoL7KMidlFS4qk+zn94BlFuWqDMz1NBRb9IFYLakpAAAADYaWSHlEppCn+h4b+R9/CUP1H9rJDWLrd8URot3nApeGvXQG8/116/nmZ5/JnP7SAdct34eX3Ug3KVnjA1/w+D9nT3I1t5KctbNhmMziEfukaxvpo22PTnUXZRx20/RvpkLFD27jO71JhEFni9/b4MY6Rq0QY43ne0CyDE3rEgPfCD3+HTLF7frl4qjCCYc4ZAAAAAzPVykvvynDl9E7Y5qB/vXz0yfJxoyi+k8lYMvi2JZi9Dzj7Avu3WIFBERoVFxE9fFWQQn+1ZVhK5qBStzIQLbg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZvDsKfSgVE6ZSOV8QIZZbAAAAAACAAAAAAAQZgAAAAEAACAAAAAJ1p2Vwkr0U2MfM5HPIUzKeuh3jSsEGmr5B0dqgyK51gAAAAAOgAAAAAIAACAAAAD7lLZxwaysg0w/3ZIE3v/FXeFkRJ1lXVEkgNaiDNHrA5AAAADP2edCCHqwuTQ8p7Dk2Mz6UgBb5QDfR/DtBH7I904sDMdI48RiNUp2eKGGZ3qJsy6Wtqb/DK+nF4TmISuRY5nUUC0CplpkC0AEDYl82G7lJDBZOaDGA6T7GASdfzMTIF2p7fKvud+sO6tvthzw3fKiGMNMZSmlCisRh0zzp5U+X8vsMg8UnmIUMd/VkEzgqMFAAAAArn22nLLkjP101i220UMOlttq88g4qDR8b4ZvneCIlNCRX8Zp9naAnptuLJ2TCl2NNrF5PBsMCvlQL8mEKksFGQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -137,7 +137,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\tmbat\Source\Repos\modelpets\ModelsAndPets.xls;Extended Properties="Excel 8.0;HDR=YES";</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\tmbat\Source\Repos\ImportFromExcel1\ImportFromExcel1\ModelsAndPets.xls;Extended Properties="Excel 8.0;HDR=YES";</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -152,7 +152,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">C:\Users\tmbat\Source\Repos\modelpets\ModelsAndPets.xls</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">C:\Users\tmbat\Source\Repos\ImportFromExcel1\ImportFromExcel1\ModelsAndPets.xls</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -225,7 +225,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">C:\Users\tmbat\Source\Repos\modelpets\ModelsAndPets.xls</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">C:\Users\tmbat\Source\Repos\ImportFromExcel1\ImportFromExcel1\ModelsAndPets.xls</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -251,10 +251,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">6</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{90BCB659-69BB-49DD-9E1A-57A125D47492}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{2AEA048F-9411-49A0-A1C4-8BAAD371B21C}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -268,7 +268,12 @@
     </Manifest>
   </DeploymentModelSpecificContent>
   <ControlFlowParts />
-  <Miscellaneous />
+  <Miscellaneous>
+    <ProjectItem>
+      <Name>ModelsAndPets.xls</Name>
+      <FullPath>ModelsAndPets.xls</FullPath>
+    </ProjectItem>
+  </Miscellaneous>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
