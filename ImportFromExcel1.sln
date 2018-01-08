@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ImportFromExcel1", "ImportFromExcel1\ImportFromExcel1.dtproj", "{15AA33DA-2C2F-47BC-BE1A-1C7C44ADCBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AA33DA-2C2F-47BC-BE1A-1C7C44ADCBAD}.Development|Default.ActiveCfg = Development
+		{15AA33DA-2C2F-47BC-BE1A-1C7C44ADCBAD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F661B541-3720-4E91-A066-F1DB873B152F}
+	EndGlobalSection
+EndGlobal

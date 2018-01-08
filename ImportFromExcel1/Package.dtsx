@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/7/2018 7:14:47 PM"
+  DTS:CreationName=""
+  DTS:CreatorComputerName="HEPTITE-MOON"
+  DTS:CreatorName="HEPTITE-MOON\BigKahuna"
+  DTS:DTSID="{EBFB9BCA-2C7F-45C6-B10B-133D24EE0988}"
+  DTS:ExecutableType=""
+  DTS:LastModifiedProductVersion="14.0.3002.68"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{F0A7CE0D-43F8-484C-B50D-9BDD16494074}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
